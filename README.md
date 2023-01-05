@@ -56,9 +56,6 @@
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a>
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> 
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a>  
@@ -66,7 +63,7 @@
       alt="angular" width="40" height="40" /></a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/raj332/raj332/blob/7ce8234867da2b037dc31fd51ea61358efc97907/icons8-express-js%20(1).svg"
       alt="express" width="40" height="40" /></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/raj332/raj332/blob/7ce8234867da2b037dc31fd51ea61358efc97907/icons8-nodejs.svg"
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/raj332/raj332/blob/7ce8234867da2b037dc31fd51ea61358efc97907/icons8-nodejs.svg"
       alt="nodejs" width="40" height="40" /></a>
       <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
