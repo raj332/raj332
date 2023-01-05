@@ -74,6 +74,6 @@
 &nbsp;
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj332"
     alt="raj332" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=raj332&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" height= "300px"  alt="raj332" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=raj332&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"  alt="raj332" />
 </div>  
 
