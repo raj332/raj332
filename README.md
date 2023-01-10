@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="raj332" height="400px" /></p>
 
 
-- 🌱 Passionate full-stack developer.
+- 🌱 Learning Enterprise java and IOS app development.
 
 - 📫 Reach me **cpr19846@gmail.com**
 
