@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raj Patel</h1>
+<h1 align="center">Raj Patel</h1>
 <h3 align="center">Student at VNSGU, Surat💎.</h3>
 
 <br>
